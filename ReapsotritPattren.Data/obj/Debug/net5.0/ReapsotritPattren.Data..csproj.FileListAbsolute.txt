@@ -1,0 +1,15 @@
+E:\Projects\Task\ReapsotritPattren.Data\bin\Debug\net5.0\ReapsotritPattren.Data..deps.json
+E:\Projects\Task\ReapsotritPattren.Data\bin\Debug\net5.0\ReapsotritPattren.Data..dll
+E:\Projects\Task\ReapsotritPattren.Data\bin\Debug\net5.0\ReapsotritPattren.Data..pdb
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..csproj.AssemblyReference.cache
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..AssemblyInfoInputs.cache
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..AssemblyInfo.cs
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..csproj.CoreCompileInputs.cache
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..dll
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\refint\ReapsotritPattren.Data..dll
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..pdb
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ref\ReapsotritPattren.Data..dll
+E:\Projects\Task\ReapsotritPattren.Data\bin\Debug\net5.0\ReapsotritPattren.Data..runtimeconfig.json
+E:\Projects\Task\ReapsotritPattren.Data\bin\Debug\net5.0\ReapsotritPattren.Data..runtimeconfig.dev.json
+E:\Projects\Task\ReapsotritPattren.Data\obj\Debug\net5.0\ReapsotritPattren.Data..genruntimeconfig.cache

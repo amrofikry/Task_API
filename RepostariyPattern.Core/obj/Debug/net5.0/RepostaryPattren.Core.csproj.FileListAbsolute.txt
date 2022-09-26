@@ -1,0 +1,12 @@
+E:\Projects\Task\RepostariyPattern.Core\bin\Debug\net5.0\RepostaryPattren.Core.deps.json
+E:\Projects\Task\RepostariyPattern.Core\bin\Debug\net5.0\RepostaryPattren.Core.dll
+E:\Projects\Task\RepostariyPattern.Core\bin\Debug\net5.0\RepostaryPattren.Core.pdb
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\RepostaryPattren.Core.csproj.AssemblyReference.cache
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\RepostaryPattren.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\RepostaryPattren.Core.AssemblyInfoInputs.cache
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\RepostaryPattren.Core.AssemblyInfo.cs
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\RepostaryPattren.Core.csproj.CoreCompileInputs.cache
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\RepostaryPattren.Core.dll
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\refint\RepostaryPattren.Core.dll
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\RepostaryPattren.Core.pdb
+E:\Projects\Task\RepostariyPattern.Core\obj\Debug\net5.0\ref\RepostaryPattren.Core.dll
